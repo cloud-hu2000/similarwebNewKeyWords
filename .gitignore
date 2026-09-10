@@ -1,0 +1,13 @@
+# Generated Similarweb exports (may contain account/report data)
+exports/
+
+# Dependencies and local environment files
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Logs and operating-system metadata
+*.log
+.DS_Store
+Thumbs.db
